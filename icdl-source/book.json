@@ -1,0 +1,74 @@
+{
+  "title": "Introducing Chemistry on a Deeper Level",
+  "units": [
+    {
+      "id": "1",
+      "slug": "unit-1",
+      "title": "The Architecture of Atoms",
+      "intro": "unit-1/index.md",
+      "chapters": [
+        {
+          "id": "1.1",
+          "title": "Why Do Atoms Bond?",
+          "lessons": [
+            { "id": "1.1", "title": "Why Do Atoms Bond?", "file": "unit-1/1-1.md" }
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "Electronegativity and the Truth of Bonding",
+          "lessons": [
+            { "id": "1.2.1", "title": "Definition and Explanation", "file": "unit-1/1-2-1.md" },
+            { "id": "1.2.2", "title": "Electronegativity in Bonding", "file": "unit-1/1-2-2.md" },
+            { "id": "1.2.3", "title": "Dipping into Dipoles" }
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "The Quantum Atom",
+          "lessons": [
+            { "id": "1.3.1", "title": "Where the Classical Atom Fails", "file": "unit-1/1-3-1.md" },
+            { "id": "1.3.2", "title": "Solving the Issues", "file": "unit-1/1-3-2.md" },
+            { "id": "1.3.3", "title": "Wave-Particle Duality", "file": "unit-1/1-3-3.md" },
+            { "id": "1.3.4", "title": "But Wait, There’s More!", "file": "unit-1/1-3-4.md" }
+          ]
+        },
+        {
+          "id": "1.4",
+          "title": "The Shape of Orbitals",
+          "lessons": [
+            { "id": "1.4.1", "title": "Fuzzy Clouds! (of Probability)", "file": "unit-1/1-4-1.md" },
+            { "id": "1.4.2", "title": "How to Build an Atom", "file": "unit-1/1-4-2.md" },
+            { "id": "1.4.3", "title": "Orbital Notations", "file": "unit-1/1-4-3.md" }
+          ]
+        },
+        {
+          "id": "1.5",
+          "title": "From Orbitals to Bonds and Beyond",
+          "lessons": [
+            { "id": "1.5.1", "title": "When Clouds Collide", "file": "unit-1/1-5-1.md" },
+            { "id": "1.5.2", "title": "VSEPR Theory", "file": "unit-1/1-5-2.md" },
+            { "id": "1.5.3", "title": "Geometry of a Bond", "file": "unit-1/1-5-3.md" },
+            { "id": "1.5.4", "title": "Hybridization, A Useful Lie", "file": "unit-1/1-5-4.md" }
+          ]
+        },
+        {
+          "id": "1.6",
+          "title": "Properties of Elements, Relooked",
+          "lessons": [
+            { "id": "1.6.1", "title": "The Orbital Map and Other Terminology", "file": "unit-1/1-6-1.md" },
+            { "id": "1.6.2", "title": "Atomic and Ionic Radii", "file": "unit-1/1-6-2.md" },
+            { "id": "1.6.3", "title": "Other Intermolecular Forces" }
+          ]
+        },
+        {
+          "id": "1.7",
+          "title": "The Other Subatomic Particles",
+          "lessons": [
+            { "id": "1.7", "title": "The Other Subatomic Particles" }
+          ]
+        }
+      ]
+    }
+  ]
+}
